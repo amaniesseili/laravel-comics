@@ -14,7 +14,7 @@
       @include('partials.header')
     </header>
     <main>
-        {{-- @yield(comicsContent) --}}
+         @yield("Content") 
 
     </main>
     <footer>
