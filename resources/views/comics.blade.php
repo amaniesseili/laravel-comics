@@ -8,6 +8,9 @@
 </head>
 <body>
   @extends('layouts.public')
+
   <h1>amani</h1>
+
+  
 </body>
 </html>

@@ -1,2 +1,38 @@
 @import "bootstrap";
 @import "@fortawesome/fontawesome-free/css/all.min.css";
+
+
+footer{
+  padding-top: 2rem;
+  height: 400px;
+  background-image: url(../assets/img/footer-bg.jpg);
+}
+
+a{
+  text-decoration: none;
+  color:rgb(150, 147, 147);
+  font-size: smaller;
+}
+h5{
+  color: white;
+}
+.transparent-image{
+  height: 400px;
+  width: 600px;
+  background-image: url(../assets/img/dc-logo-bg.png); 
+  background-size: cover;
+  background-position: center;
+  margin-top: -2rem;
+  margin-left: 300px;
+}
+.sign-up-bar{
+  height: 150px;
+  background-color:#303030;
+}
+
+
+.follow-us{
+  color:#0282F9;
+  font-size: 20px;
+  font-weight: bold;
+}
