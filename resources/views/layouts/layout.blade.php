@@ -10,12 +10,16 @@
 </head>
 
 <body>
-    <header></header>
+    <header>
+      @include('partials.header')
+    </header>
     <main>
         {{-- @yield(comicsContent) --}}
 
     </main>
-    <footer></footer>
+    <footer>
+      @include('partials.footer')
+    </footer>
 
 </body>
 
